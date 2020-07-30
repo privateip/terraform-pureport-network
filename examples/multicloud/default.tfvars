@@ -18,16 +18,16 @@
 //
 // Pureport input values
 //
-pureport_network_name = "dropindemo"
+pureport_network_name = "default"
 
 //
 // Google Cloud input values
 //
 gcp_region       = "us-central1"
-gcp_network_name = "dropindemo"
+gcp_network_name = "default"
 
 //
 // Amazon Web Service input values
 //
 aws_region       = "us-west-1"
-aws_network_name = "dropindemo"
+aws_network_name = "default"

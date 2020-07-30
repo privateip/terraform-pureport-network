@@ -7,8 +7,9 @@ and cloud connections to those networks.
 This module supports:
 
   * Pureport Networks
-  * Connecting Google Cloud to a Pureport network
-  * Connecting Amazon Web Service to a Pureport network
+  * [Connecting Google Cloud to a Pureport network](modules/google_cloud_interconnect)
+  * [Connecting Amazon Web Service to a Pureport network](modules/aws_direct_connect)
+  * [Connecting Microsoft Azure to a Pureport network](modules/azure_express_route)
 
 Public cloud connectivity implementations are supported as submodules.  See
 the modules directory for usage.
